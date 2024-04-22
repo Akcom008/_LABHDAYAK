@@ -1,0 +1,9 @@
+.whatsapp-channel-partners-01 {
+  width: 100%;
+  position: relative;
+  height: 4096px;
+  background-image: url(/public/whatsappchannel-partners01@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
